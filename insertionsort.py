@@ -13,3 +13,5 @@ def insertion_sort(array):
 ints = [1, 4, 5, 7, 9, 0, 3, 2, 10, 6, 8, 17, 12]
 
 print(insertion_sort(ints))
+
+# In the worst-case, the time complexity of this algorithm is O(n^2) when the items are in reverse order.

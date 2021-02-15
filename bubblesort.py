@@ -22,4 +22,6 @@ END = time.time()
 print("\nIt took:", START - END, "seconds")
 
 
+ # Big-O run-time complexity of this algorithm in the worst case is O(n^2). 
+
 
